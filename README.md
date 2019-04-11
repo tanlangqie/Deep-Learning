@@ -1,5 +1,4 @@
 # Deep-Learning
-Something about Deep Learning  
 CNN_tensorflow  
 DBN_tensorflow  
 
